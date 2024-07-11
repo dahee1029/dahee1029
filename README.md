@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20DaHee!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+
 <h3 align="center">:books: i'm gonna learn :books:</h3> <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
